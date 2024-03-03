@@ -1,3 +1,4 @@
+#estrutura de repetição
 alunos = []
 
 tecla_pressionada = 's'
