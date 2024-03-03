@@ -15,5 +15,5 @@ alunos[0][:nome]
 
 #symbols
 # Os symbols são normalmente usados quando precisamos de identificadores. 
-“caneca” # string 
-:caneca  # symbol
+“caneca”     #string 
+:caneca      # symbol
